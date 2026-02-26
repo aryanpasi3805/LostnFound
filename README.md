@@ -1,6 +1,6 @@
 shit requires nodejs n mongodb latest version
 
-install dependencies n modules with "npm install" on the folder in terminal
+install dependencies n modules with "npm install" on both the folders in their respective terminals
 
 then "npm install axios" in backend
 
