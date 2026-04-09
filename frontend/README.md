@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+shit requires nodejs n mongodb latest version
+
+install dependencies n modules with "npm install" on both the folders in their respective terminals
+
+then "npm install axios" in backend
+
+just run both frontend and backend with "npm run dev"
+
+fckk this project!!
+=======
 # 🔍 FindIt — Smart Lost & Found Portal for College
 
 A modern, production-grade Lost & Found portal built for college campuses. Features smart matching, ownership verification, and an admin review system.
@@ -235,3 +246,4 @@ npm run test
 ## 📄 License
 
 MIT
+>>>>>>> c6606da (update)
